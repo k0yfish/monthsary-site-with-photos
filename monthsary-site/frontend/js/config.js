@@ -33,5 +33,5 @@ const CONFIG = {
 
 // Where the backend API lives. Point this at your deployed backend's URL once you host it
 // (e.g. "https://your-api.example.com/api"). Keep the "/api" suffix.
-const API_BASE_URL = "http://localhost:3001/api";
+const API_BASE_URL = "https://monthsary-site-with-photos.onrender.com/";
 /* ============ END EDITABLE CONFIG ============ */
