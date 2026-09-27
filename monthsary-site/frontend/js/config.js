@@ -8,10 +8,10 @@ const CONFIG = {
 
   letterPage1: [
     "Hello baby, tandang tanda ko pa kan inot tang hilingan which is nung paskohan sa biscast HAHAHAHHA",
-    "Randomon ang encounter ta ay tas nangyare pato sa trip trip ko kay rebs HHAHAHAHAHAHA. Kan inot wala"
-    "talaga akong balak na kausapin ka nun or “pormahan” kase natatakot ako na baka mag ano na naman pagka"
-    " avoidance ko which is nangyari nga kan inot tang pag-uulay pero habang naghahaloy tuyong paguulay ta mas"
-    "lalo lang nagkusog si feelings ko na baka ika na talaga ang tighahalat ko kaya binago ko talaga ang ugali ko para saimo"
+    "Randomon ang encounter ta ay tas nangyare pato sa trip trip ko kay rebs HHAHAHAHAHAHA. Kan inot wala",
+    "talaga akong balak na kausapin ka nun or “pormahan” kase natatakot ako na baka mag ano na naman pagka",
+    " avoidance ko which is nangyari nga kan inot tang pag-uulay pero habang naghahaloy tuyong paguulay ta mas",
+    "lalo lang nagkusog si feelings ko na baka ika na talaga ang tighahalat ko kaya binago ko talaga ang ugali ko para saimo",
     " which I myself didn’t know I could changed."
   ],
   letterPage2: [
