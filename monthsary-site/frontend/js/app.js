@@ -88,7 +88,7 @@ noteForm.addEventListener('submit', async e => {
   const submitBtn = noteForm.querySelector('button[type="submit"]');
   submitBtn.disabled = true;
   try {
-    const res = await fetch(`${API_BASE_URL}/notes`, {
+    const res = await fetch(`${https://monthsary-site-with-photos.onrender.com/}/notes`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ name, message: text })
